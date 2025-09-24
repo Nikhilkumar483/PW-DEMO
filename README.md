@@ -1,4 +1,6 @@
-# PW-DEMO
+# ASSIGNMENT 
 this is my first Git repository.
 <br>
-Author - Nikhil kumar
+passionate about turning data to insights 
+<br>
+Learning data science at Physics Wallah
